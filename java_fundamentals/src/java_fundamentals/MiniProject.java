@@ -65,5 +65,6 @@ public class MiniProject {
         }
 
         scanner.close();
+        
     }
 }
